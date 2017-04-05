@@ -14,6 +14,8 @@ public class Hello {
 
 	public static TV buyTelevsion(int a) {
 		if (a > 10) {
+
+			System.out.println("Hello");
 			return new LED();
 		} else {
 			return new Plasma();
