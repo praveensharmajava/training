@@ -21,6 +21,9 @@ public class ArrayExample {
 		System.out.println("Lenght of my array is = "+abc[1][0]);//11
 		System.out.println("Lenght of my array is = "+abc[2][2]);//35
 		System.out.println("Lenght of my array is = "+abc[2][2]);//35
-		
+
+
+System.out.println("Gautam has change something");	
+
 	}
 }
