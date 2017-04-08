@@ -11,5 +11,6 @@ public class App {
 
 		OutputHelper output = (OutputHelper)context.getBean("OutputHelper");
     	output.generateOutput();
+    	System.out.println("defect fixed");
 	}
 }
