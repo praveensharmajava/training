@@ -12,5 +12,6 @@ public class OutputHelper {
 	//DI via setter method
 	public void setOutputGenerator(IOutputGenerator outputGenerator) {
 		this.outputGenerator = outputGenerator;
+		System.out.println("changes from saurabh");
 	}
 }
